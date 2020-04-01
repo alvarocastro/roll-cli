@@ -1,6 +1,6 @@
 {
   "name": "@alvarocastro/roll-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Roll your 2d6 from the command line!",
   "main": "index.js",
   "scripts": {
