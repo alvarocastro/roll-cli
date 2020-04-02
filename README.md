@@ -8,7 +8,7 @@
 
 Roll your dices directly from the command line!
 
-It supports the dice notation like `1d6` and even simple transforms like `2d10+5` or even `1d8-1d6/2`.
+It supports the dice notation in the form of `AdX`, like `1d6` and even simple transforms like `2d10+5`, but it also supports more complex rolls like `1d8-1d6/2`.
 
 - [Install](#install)
 - [Usage](#usage)
