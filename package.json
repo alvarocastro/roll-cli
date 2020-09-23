@@ -27,7 +27,7 @@
     "xo": "0.33.1"
   },
   "dependencies": {
-    "@alvarocastro/roll": "0.0.1",
+    "@alvarocastro/roll": "1.0.0",
     "commander": "^6.1.0"
   }
 }
