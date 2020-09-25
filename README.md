@@ -72,4 +72,4 @@ If you use this package please consider starring it :)
 
 ## Related
 
-* [@alvarocastro/roll](https://github.com/alvarocastro/roll) - JavaScript library used parse and roll the dices.
+* [@alvarocastro/roll](https://github.com/alvarocastro/roll) - JavaScript library used to parse and roll the dices.
