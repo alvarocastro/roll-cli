@@ -1,10 +1,11 @@
 # roll-cli
 
-[![NPM](https://img.shields.io/npm/v/@alvarocastro/roll-cli.svg)](https://www.npmjs.com/package/@alvarocastro/roll-cli)
-[![Build Status](https://travis-ci.com/alvarocastro/roll-cli.svg?branch=master)](https://travis-ci.com/alvarocastro/roll-cli)
-[![Maintainability](https://badgen.net/codeclimate/maintainability/alvarocastro/roll-cli)](https://codeclimate.com/github/alvarocastro/roll-cli/maintainability)
-[![Coverage Status](https://coveralls.io/repos/github/alvarocastro/roll-cli/badge.svg?branch=master)](https://coveralls.io/github/alvarocastro/roll-cli?branch=master)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+[![NPM](https://img.shields.io/npm/v/@alvarocastro/roll-cli)](https://www.npmjs.com/package/@alvarocastro/roll-cli)
+[![Build status](https://img.shields.io/github/workflow/status/alvarocastro/roll-cli/build)](https://github.com/alvarocastro/roll-cli/actions?query=workflow%3Abuild)
+[![Maintainability status](https://img.shields.io/codeclimate/maintainability/alvarocastro/roll-cli)](https://codeclimate.com/github/alvarocastro/roll-cli/maintainability)
+[![Coverage status](https://img.shields.io/coveralls/github/alvarocastro/roll-cli)](https://coveralls.io/github/alvarocastro/roll-cli?branch=master)
+[![Code style: XO](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+[![Release: Semantic](https://img.shields.io/badge/%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 Roll your dices directly from the command line!
 

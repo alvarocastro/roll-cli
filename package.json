@@ -1,11 +1,10 @@
 {
   "name": "@alvarocastro/roll-cli",
-  "version": "1.0.1",
+  "version": "0.0.0-development",
   "description": "Roll your 2d6 from the command line!",
   "main": "index.js",
   "scripts": {
-    "test": "xo && nyc ava",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "test": "xo && nyc ava"
   },
   "bin": {
     "roll": "./cli.js"
@@ -24,6 +23,7 @@
     "ava": "3.12.1",
     "coveralls": "3.1.0",
     "nyc": "15.1.0",
+    "semantic-release": "^17.1.2",
     "xo": "0.33.1"
   },
   "dependencies": {
