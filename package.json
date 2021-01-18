@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "@alvarocastro/roll": "1.0.2",
-    "commander": "^6.1.0"
+    "commander": "^7.0.0"
   }
 }
